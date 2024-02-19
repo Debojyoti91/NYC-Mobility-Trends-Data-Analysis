@@ -17,6 +17,10 @@ The data used in this project includes timestamps and geolocation information of
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn, Folium for visualization.
 - Jupyter Notebooks for interactive development.
 
+## Project Contents
+- `Uber_data_analysis.ipynb`: A Jupyter notebook containing the detailed data analysis, visualizations, and insights.
+- `Uber_analysis.pptx`: A PowerPoint presentation summarizing the key findings and recommendations.
+
 ## Findings
 Key insights include the identification of a peak activity window around 6 PM, progressive activity increase from noon to evening, and variations in activity levels throughout the month and on weekends.
 
@@ -26,7 +30,8 @@ The repository includes Jupyter Notebooks that detail the data analysis process,
 ## Contributions
 Contributions are welcome! Please fork the repository and submit a pull request with your suggested changes.
 
+## License
+This project is available under the [MIT License](LICENSE).
+
 ## Contact
 For any queries or discussions related to this project, please open an issue in the repository or contact us directly through [Github Profile Link].
-
-
