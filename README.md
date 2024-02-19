@@ -31,8 +31,5 @@ The repository includes Jupyter Notebooks that detail the data analysis process,
 ## Contributions
 Contributions are welcome! Please fork the repository and submit a pull request with your suggested changes.
 
-## License
-This project is available under the [MIT License](LICENSE).
-
 ## Contact
 For any queries or discussions related to this project, please open an issue in the repository or contact us directly through [Github Profile Link].
